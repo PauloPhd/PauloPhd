@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 🌱 Estudando Javascript AND Python
 - 🤓 HTML and CSS3 EASY
 - 😄 Pronomes: ele/dele
-- ⚡ Um fato: Gosto de Harrt Potter ...
+- ⚡ Um fato: Gosto de Harry Potter ...
 <div style="display: inline_block">
 <img aling="center" alt="css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
  <img aling="center" alt="html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
